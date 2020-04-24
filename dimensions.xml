@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<dimensions>
+    <dimension name="nhru">
+        <size>109951</size>
+    </dimension>
+    <dimension name="nsegment">
+        <size>56460</size>
+    </dimension>
+    <dimension name="npoigages">
+        <size>8282</size>
+    </dimension>
+    <dimension name="ndeplval">
+        <size>1209461</size>
+    </dimension>
+    <dimension name="nmonths">
+        <size>12</size>
+    </dimension>
+    <dimension name="one">
+        <size>1</size>
+    </dimension>
+</dimensions>
